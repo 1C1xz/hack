@@ -36,7 +36,7 @@ game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
 wait(4)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("to identify a silverback gorilla check its hair , if it's hair is curly and nappy , call them cops "  ,"All")
 wait(1)
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(" ADD THE CREATORS OF THIS SCRIPT FOR 15% OF ON IT USERNAMES: RILEYSWANTED & TheRealCapArtist"  ,"All")
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(" ADD THE CREATORS OF THIS SCRIPT USERNAMES RILEYSWANTED & TheRealCapArtist"  ,"All")
 wait(2.9)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(" riley 3597 but the second l must be an i on caps blacks may add only for a fee."  ,"All")
 
